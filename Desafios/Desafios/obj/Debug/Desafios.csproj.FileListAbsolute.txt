@@ -1,0 +1,8 @@
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\bin\Debug\Desafios.exe.config
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\bin\Debug\Desafios.exe
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\bin\Debug\Desafios.pdb
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\obj\Debug\Desafios.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\obj\Debug\Desafios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\obj\Debug\Desafios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\obj\Debug\Desafios.exe
+C:\Users\Felipe\OneDrive\Documentos\Faculdade\Trabalhos\POO\Desafios\Desafios\obj\Debug\Desafios.pdb
